@@ -1,0 +1,1 @@
+Esse arquivo explica o projeto que será desenvolvido.
